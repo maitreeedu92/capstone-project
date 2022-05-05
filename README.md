@@ -35,5 +35,5 @@ File: sentence_similarity_custom_model_A_v1.ipynb
 4. Train and save the custom NLP model B from scratch
 File: sentence_similarity_custom_model_B_v2.ipynb
 
-Please find the following link to watch the demo of the Project:
+Please find the following link to watch the demo of the Project:  
 https://youtu.be/T8ERQSHr8LQ
